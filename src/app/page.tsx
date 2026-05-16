@@ -68,7 +68,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/woman-s-hands-holding-fresh-ripe-organic-broccoli-salad-with-greens-vegetables-cotton-bag-weekend-farmer-s-market_169016-5707.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-s-hands-holding-fresh-ripe-organic-broccoli-salad-with-greens-vegetables-cotton-bag-weekend-farmer-s-market_169016-5707.jpg?_wi=1"
     />
   </div>
 
@@ -81,17 +81,17 @@ export default function LandingPage() {
         {
           title: "Same-Day Delivery",
           description: "Get your groceries delivered to your door within hours.",
-          imageSrc: "http://img.b2bpic.net/free-photo/courier-delivering-groceries-home_23-2149737963.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/courier-delivering-groceries-home_23-2149737963.jpg?_wi=1",
         },
         {
           title: "Farm-Fresh Quality",
           description: "Sourced daily from trusted local farmers and growers.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=fnc3s0",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=fnc3s0&_wi=1",
         },
         {
           title: "Secure Payments",
           description: "Safe and encrypted checkout process for your peace of mind.",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-delivering-groceries-customers_23-2149950083.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-delivering-groceries-customers_23-2149950083.jpg?_wi=1",
         },
       ]}
       title="Why Zaytun Market?"
@@ -111,7 +111,7 @@ export default function LandingPage() {
           name: "Organic Spinach",
           price: "$2.99",
           variant: "Vegetables",
-          imageSrc: "http://img.b2bpic.net/free-photo/cauliflower-broccoli-white-table_114579-76131.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cauliflower-broccoli-white-table_114579-76131.jpg?_wi=1",
         },
         {
           id: "2",
@@ -191,7 +191,7 @@ export default function LandingPage() {
           quote: "Zaytun Market saved my week! Freshness like never before.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiley-woman-doing-thumbs-up_23-2148628939.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-s-hands-holding-fresh-ripe-organic-broccoli-salad-with-greens-vegetables-cotton-bag-weekend-farmer-s-market_169016-5707.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-s-hands-holding-fresh-ripe-organic-broccoli-salad-with-greens-vegetables-cotton-bag-weekend-farmer-s-market_169016-5707.jpg?_wi=2",
           imageAlt: "happy customer portrait",
         },
         {
@@ -202,7 +202,7 @@ export default function LandingPage() {
           quote: "My kids love the fruits. Quality is exceptional.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-smiling-woman-close-eyes-showing-okay-ok-sign-zero-gesture-no-proble-praise-awesome-good-thing-standing-stylish-outfit-against-white-background_176420-46697.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/courier-delivering-groceries-home_23-2149737963.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/courier-delivering-groceries-home_23-2149737963.jpg?_wi=2",
           imageAlt: "happy customer portrait",
         },
         {
@@ -213,7 +213,7 @@ export default function LandingPage() {
           quote: "The best ingredients for my home cooking sessions.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/joyful-business-woman-with-coffee-cup_23-2148095746.jpg",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=fnc3s0",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=fnc3s0&_wi=2",
           imageAlt: "happy customer portrait",
         },
         {
@@ -224,7 +224,7 @@ export default function LandingPage() {
           quote: "Fast, fresh, and friendly service every time.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-delivering-groceries-customers_23-2149950083.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-delivering-groceries-customers_23-2149950083.jpg?_wi=2",
           imageAlt: "happy customer portrait",
         },
         {
@@ -235,7 +235,7 @@ export default function LandingPage() {
           quote: "Finally, a market that understands local needs.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-vertical-image-smiling-african-man-looking_171337-9837.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/cauliflower-broccoli-white-table_114579-76131.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cauliflower-broccoli-white-table_114579-76131.jpg?_wi=2",
           imageAlt: "happy customer portrait",
         },
       ]}
